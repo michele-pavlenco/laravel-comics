@@ -5,5 +5,7 @@ DC comics - Single
 @endsection
 
 @section('mainContent')
-<h1>Single</h1>
+<div class="main_single">
+    
+</div>
 @endsection
