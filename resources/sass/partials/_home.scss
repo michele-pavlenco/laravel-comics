@@ -45,7 +45,7 @@ main{
     h3{
         position: absolute;
         top: -30px;
-        background-color: blue;
+        background-color:#0c7cec;
         color: white;
         padding: 10px;
         
@@ -65,13 +65,28 @@ main{
             }
         }
         button{
-            background-color: rgb(49, 49, 255);
+            background-color: #0c7cec;
             width: 100px;
             height: 25px;
         }
     }
 
-}footer{
+}.main_single{
+    .img{
+        height: 80px;
+        background-color: #0c7cec;
+    }
+    .container{
+        height: 70vh;
+        width: 100%;
+        background-color: white;
+    }
+}
+
+
+
+
+footer{
     .section1 {
         background-color: #0c7cec;
     }
